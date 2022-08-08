@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Welcome from system, please add your code access: ");
         code = scanner.nextInt();
 
-    //verifyUserCode
+                   //verifyUserCode
                if (code == 1234) {
                    System.out.println("Fill your password: ");
                    password = scanner.nextInt();
