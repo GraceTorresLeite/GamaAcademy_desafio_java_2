@@ -31,7 +31,7 @@ public class Main {
                        System.out.println("Password fail");
                    }
                }else{
-                   System.out.println("Code fail");
+                   System.out.println("Invalid user");
                }
 
         scanner.close();
